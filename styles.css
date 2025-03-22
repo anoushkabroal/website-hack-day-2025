@@ -2,7 +2,7 @@
 
 /* The body class targets the <body> tag in your html file */
 body {
-    background-color: rgb(227, 219, 216);
+    background-color: rgb(250, 224, 152);
     font-family: "Karla", sans-serif;
     margin: 0;
 }
@@ -10,18 +10,20 @@ body {
 /* The following classes are used to style the corresponding html classes */
 .menu {
     padding: 40px;
-    background-color: #000000;
-    color: #ffffff;
-    font-size: 16px;
+    background-color: #F4E4C6;
+    color: #000000;
+    font-size: 13px;
     position: sticky;
     top: 0;
     display: flex;
-    gap: 20px;
+    gap: 13px;
 }
 
 .menu a {
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
+    margin: 153px;
+    font-size: 24px;
 }
 
 .content {
